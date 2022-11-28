@@ -1,6 +1,5 @@
 import  numpy as np
 import cv2
-import numpy as np
 import csv
 from random import randint
 
